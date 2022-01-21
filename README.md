@@ -6,7 +6,7 @@
 ## I'm a Developer!!
 - 🔭 I’m currently working on Javascipt
 - 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on open source
+- 👨‍💻 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him/His
 
