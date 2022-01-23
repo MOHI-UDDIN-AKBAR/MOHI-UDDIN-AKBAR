@@ -12,7 +12,7 @@
 
 
 ### Talk with me, I am kinda cool:
-[<img align="left" alt="web developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="web developer | LinkedIn" width="22px" src="https://img2.freepng.fr/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg"/>][linkedin]
 
 <br />
 
