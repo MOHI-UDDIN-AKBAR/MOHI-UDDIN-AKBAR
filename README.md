@@ -4,8 +4,9 @@
 
 
 ## I'm a Developer!!
-- 🔭 I’m currently working on Javascipt
-- 🌱 I’m currently learning React 
+-👨‍🎓 I’m currently studing at University of Lodz
+- 🔭 I’m recently working on Javascipt project
+- 🌱 I’m having fun to learn React 
 - 👨‍💻 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him/His
