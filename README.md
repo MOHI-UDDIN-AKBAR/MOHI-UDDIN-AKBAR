@@ -4,7 +4,7 @@
 
 
 ## I'm a Developer!!
--👨‍🎓 I’m currently studing at University of Lodz
+- 👨‍🎓 I’m currently studing at University of Lodz
 - 🔭 I’m recently working on Javascipt project
 - 🌱 I’m having fun to learn React 
 - 👨‍💻 I’m looking to collaborate on open source
