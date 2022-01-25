@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="500" height="320" />
 
 
-## I'm a Web Developer!!
+## I'm a Front End Developer!!
 - 👨‍🎓 I’m currently studing at University of Lodz
 - 🔭 I’m recently working on Javascipt project
 - 🌱 I’m having fun to learn React 
