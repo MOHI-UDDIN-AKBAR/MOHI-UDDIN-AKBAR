@@ -5,8 +5,8 @@
 
 ## I'm a Front End Developer!!
 - 👨‍🎓 I’m currently studing at University of Lodz
-- 🔭 I’m recently working on Javascipt project
-- 🌱 I’m having fun to learn React 
+- 🔭 I’m recently working on React projects
+- 🌱 I’m have fun to do code with React 
 - 👨‍💻 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him/His
