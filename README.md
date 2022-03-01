@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/Him/His
 
 
-### Talk with me, I am kinda cool:
+### Talk with me:
 [<img align="left" alt="web developer | LinkedIn" width="22px" src="https://img2.freepng.fr/20180529/str/kisspng-linkedin-computer-icons-logo-professional-network-social-networks-5b0d65b29ec943.2054111815276046586504.jpg"/>][linkedin]
 
 <br />
