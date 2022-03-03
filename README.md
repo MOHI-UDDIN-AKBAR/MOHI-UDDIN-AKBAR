@@ -6,7 +6,7 @@
 ## I'm a Front End Developer!!
 - 👨‍🎓 I’m currently studing at University of Lodz
 - 🔭 I’m recently working on React projects
-- 🌱 I have fun to do code with React 
+- 🌱 I enjoy while code with JS and React
 - 👨‍💻 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him/His
