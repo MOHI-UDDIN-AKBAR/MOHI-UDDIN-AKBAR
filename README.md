@@ -1,4 +1,4 @@
-### Hi There, I'm MOHI UDDIN 👋
+### Hi There 👋
 
  <img align="right" alt="GIF" src="https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="500" height="320" />
 
